@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=TortoiseHG
+Icon=/opt/thg/icons/thg_logo.ico
+Terminal=false
+Exec=/opt/thg/thg
+Categories=Development;RevisionControl;
