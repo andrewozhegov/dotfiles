@@ -107,6 +107,9 @@ POWERLEVEL9K_SHOW_CHANGESET=true
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(git zsh-syntax-highlighting)
 
+typeset -A ZSH_HIGHLIGHT_STYLES
+ZSH_HIGHLIGHT_STYLES[comment]='none'
+
 source $ZSH/oh-my-zsh.sh
 
 # User configuration
