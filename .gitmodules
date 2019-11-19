@@ -1,3 +1,9 @@
 [submodule ".vim"]
 	path = .vim
 	url = https://github.com/andrewozhegov/.vim
+[submodule "/home/andrew/.oh-my-zsh/custom/plugins/k"]
+	path = /home/andrew/.oh-my-zsh/custom/plugins/k
+	url = https://github.com/supercrabtree/k
+[submodule "/home/andrew/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting"]
+	path = /home/andrew/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting
+	url = https://github.com/zsh-users/zsh-syntax-highlighting
